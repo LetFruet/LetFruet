@@ -28,7 +28,7 @@
     </br>
     </br>
   </div>
-  s
+  
   <div>
     </br>
     <a href="https://github.com/LetFruet">
