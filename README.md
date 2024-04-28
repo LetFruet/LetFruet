@@ -1,10 +1,10 @@
 # Olá, me chamo Letícia! 👋
 ## Bem-vindo ao meu perfil GitHub 😄
 
-- :girl: Tenho 19 anos e recentemente concluí o curso de Java pelo Entra21.
-- :computer: Atualmente estou cursando o terceiro semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e em algumas disciplinas, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
+- 👧: Tenho 19 anos e recentemente concluí o curso de Java pelo Entra21.
+- 💻: Atualmente estou cursando o terceiro semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e em algumas disciplinas, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
 
-- :books: Estou aprendendo:
+- 📚: Estou aprendendo:
   </br></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 
-- :iphone: Contatos:
+- 📱: Contatos:
   </br>
   <div>
     <a href="https://instagram.com/leticia_fruet" target="_blank">
@@ -25,11 +25,10 @@
     <a href="https://www.linkedin.com/in/leticia-fruet" target="_blank">
       <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-
     </br>
     </br>
   </div>
-  
+  s
   <div>
     </br>
     <a href="https://github.com/LetFruet">
