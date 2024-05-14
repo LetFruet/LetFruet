@@ -6,7 +6,7 @@
 💻 Atualmente estou cursando o terceiro semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
 
 📚 Estou aprendendo:
-  </br>
+  </br></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
