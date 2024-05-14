@@ -1,10 +1,10 @@
 # Olá, me chamo Letícia! 👋
 ## Bem-vindo ao meu perfil GitHub 😄
 
-- 👧 Tenho 19 anos e recentemente concluí o curso de Java pelo Entra21.
-- 💻 Atualmente estou cursando o terceiro semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
+👧 Tenho 19 anos e recentemente concluí o curso de Java pelo Entra21.
+💻 Atualmente estou cursando o terceiro semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
 
-- 📚 Estou aprendendo:
+📚 Estou aprendendo:
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 
-- 📱 Contatos:
+📱 Contatos:
   </br>
   <div>
     <a href="https://instagram.com/leticia_fruet" target="_blank">
