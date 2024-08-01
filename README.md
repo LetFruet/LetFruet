@@ -3,7 +3,7 @@
 
 👧 Tenho 19 anos e recentemente concluí o curso de Java pelo Entra21.
 </br></br>
-💻 Atualmente estou cursando o terceiro semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
+💻 Atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
 
 📚 Estou aprendendo:
   </br></br>
