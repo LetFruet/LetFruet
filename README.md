@@ -5,7 +5,6 @@
 </br>
 💻 Monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I.
 
-</br>
   <div>
     <a href="https://instagram.com/leticia_fruet" target="_blank">
       <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
