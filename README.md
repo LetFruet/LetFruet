@@ -1,7 +1,9 @@
 # Olá, me chamo Letícia! 👋
 </br>
 💻 Cursando o quarto semestre de Ciência da Computação na Furb. 
+</br>
 💻 Monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I.
+</br>
 💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
 📚 Aprendendo:
