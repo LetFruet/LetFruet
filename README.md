@@ -1,11 +1,11 @@
 # Olá, me chamo Letícia! 👋
-## Bem-vindo ao meu perfil GitHub 😄
 
-👧 Tenho 19 anos e recentemente concluí o curso de Java pelo Entra21.
 </br></br>
-💻 Atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Sou monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I, e também trabalho no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT, ambos na Furb.
+💻 Cursando o quarto semestre de Ciência da Computação na Furb. 
+💻 Monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I.
+💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
-📚 Estou aprendendo:
+📚 Aprendendo:
   </br></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
