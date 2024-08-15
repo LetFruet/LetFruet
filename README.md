@@ -3,7 +3,7 @@
 </br>
 💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 </br>
-💻 Monitora no Laboratório de Computação e Informática - LCI e nas disciplinas de Introdução a Programação, Programação Orientada a Objetos, Web I.
+💻 Monitora de programação no Laboratório de Computação e Informática - LCI.
 
   <div>
     <a href="https://instagram.com/leticia_fruet" target="_blank">
