@@ -1,9 +1,9 @@
 ## Olá, me chamo Letícia! 👋
 💻 Cursando o quarto semestre de Ciência da Computação na Furb. 
 </br>
-💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
-</br>
 💻 Monitora de programação no Laboratório de Computação e Informática - LCI.
+</br>
+💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
   <div>
     <a href="https://instagram.com/leticia_fruet" target="_blank">
