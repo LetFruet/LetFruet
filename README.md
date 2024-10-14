@@ -1,10 +1,9 @@
 # Olá, me chamo Letícia! 
-## Bem vindo ao meu perfil GitHub 👋
 
 Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
 ### :computer: Tecnologias e ferramentas
-<div>
+<div align="center">
 	<!-- Java (Language) -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40"/>
 	<!-- Spring (with Java) -->
@@ -24,10 +23,6 @@ Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Compu
 	<!-- Git -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
 </div>
-
-
-<!-- Change to English -->
-<p>Don't speak Portuguese? <a href="https://github.com/LetFruet/LetFruet/blob/main/README.md">Change to English!</a></p>
 
 ## :iphone: Contatos
 <div align="center">
