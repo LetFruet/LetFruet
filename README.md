@@ -18,3 +18,16 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+
+###
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+###
