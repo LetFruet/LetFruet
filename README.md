@@ -34,13 +34,6 @@
     </a>
   </p>
 
-```md
-![nightowl's GitHub stats](https://github-readme-stats.vercel.app/api?LetFruet=nightowl&show_icons=true&theme=radical)
-```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LetFruet=nightowl&layout=compact)
-
-
   <div>
     <a href="https://instagram.com/leticia_fruet" target="_blank">
       <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
