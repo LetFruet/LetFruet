@@ -1,14 +1,6 @@
 # Olá, me chamo Letícia! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-
-
-
-
-
-# Olá, me chamo Letícia! 
-## Bem vindo ao meu perfil GitHub 👋
-
 Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
 ### :computer: Tecnologias e ferramentas
