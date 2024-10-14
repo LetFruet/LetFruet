@@ -2,6 +2,7 @@
 
 Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
+<!-- Linguagens -->
 ### :computer: Tecnologias e ferramentas
 <div align="center">
 	<!-- Java (Language) -->
@@ -34,6 +35,7 @@ Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Compu
   <br>
 </div>
 
+<!-- Estatísticas -->
 <div align="center">
   <a href="https://github.com/LetFruet">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact&langs_count=7&theme=nightowl"/>
