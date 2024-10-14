@@ -8,11 +8,7 @@
 💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
+
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -48,7 +44,7 @@
     </br>
   </div>
   
-  <div>
+  <div align="center">>
     <a href="https://github.com/LetFruet">
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact&langs_count=7&theme=nightowl"/>
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
