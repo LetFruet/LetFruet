@@ -1,12 +1,43 @@
 # Olá, me chamo Letícia! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-💻 Cursando o quarto semestre de Ciência da Computação na Furb. 
-<br>
-💻 Monitora de programação no Laboratório de Computação e Informática - LCI.
-<br>
-💻 Estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
-<br>
+
+
+
+
+
+# Olá, me chamo Letícia! 
+## Bem vindo ao meu perfil GitHub 👋
+
+Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
+
+### :computer: Tecnologias e ferramentas
+<div>
+	<!-- Java (Language) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40"/>
+	<!-- Spring (with Java) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" widht="40" height="40"/>
+	<!-- Javascript (Language) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>
+	<!-- HTML5 (Mark Language) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/>
+	<!-- CSS3 (style) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="40" height="40"/>
+	<!-- Bootstrap (style) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40"/>
+	<!-- PostgreSQL (Database) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" widht="40" height="40"/>
+	<!-- MySQL (Database) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="40"/>
+	<!-- Git -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
+</div>
+
+
+<!-- Change to English -->
+<p>Don't speak Portuguese? <a href="https://github.com/LetFruet/LetFruet/blob/main/README.md">Change to English!</a></p>
+
+## :iphone: Contatos
 <div align="center">
   <a href="https://instagram.com/leticia_fruet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leticiafruet09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -19,15 +50,9 @@
   </a>
 </div>
 
-
-###
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <a href="https://github.com/LetFruet">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact&langs_count=7&theme=nightowl"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
-
-###
