@@ -1,4 +1,6 @@
-## Olá, me chamo Letícia! 👋
+# Olá, me chamo Letícia! 
+## Bem vindo ao meu perfil GitHub 👋
+
 💻 Cursando o quarto semestre de Ciência da Computação na Furb. 
 </br>
 💻 Monitora de programação no Laboratório de Computação e Informática - LCI.
@@ -25,3 +27,5 @@
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
   </div>
+
+![Snake animation](https://github.com/LetFruet/LetFruet/blob/output/github-contribution-grid-snake.svg)
