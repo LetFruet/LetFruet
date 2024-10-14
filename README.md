@@ -1,6 +1,6 @@
 # Olá, me chamo Letícia! 
 
-Tenho 20 anos e atualmente estou cursando o quarto semestre de Ciência da Computação na Furb. Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
+Tenho 20 anos, atualmente estou cursando o quarto semestre de Ciência da Computação na Furb e já participei do programa Entra21 (Java). Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
 
 <!-- Linguagens -->
 ### :computer: Tecnologias e ferramentas
