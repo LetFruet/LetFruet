@@ -5,21 +5,21 @@ Tenho 20 anos, atualmente estou cursando o quarto semestre de Ciência da Comput
 <!-- Linguagens -->
 ### :computer: Tecnologias e ferramentas
 <div align="center">
-	<!-- Java (Language) -->
+	<!-- Java -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40"/>
-	<!-- Spring (with Java) -->
+	<!-- Spring -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" widht="40" height="40"/>
-	<!-- Javascript (Language) -->
+	<!-- Javascript -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>
-	<!-- HTML5 (Mark Language) -->
+	<!-- HTML5 -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/>
-	<!-- CSS3 (style) -->
+	<!-- CSS -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="40" height="40"/>
-	<!-- Bootstrap (style) -->
+	<!-- Bootstrap -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40"/>
-	<!-- PostgreSQL (Database) -->
+	<!-- PostgreSQL -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" widht="40" height="40"/>
-	<!-- MySQL (Database) -->
+	<!-- MySQL -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="40"/>
 	<!-- Git -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
