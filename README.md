@@ -6,23 +6,27 @@ Tenho 20 anos, atualmente estou cursando o quarto semestre de Ciência da Comput
 ### :computer: Tecnologias e ferramentas
 <div align="center">
 	<!-- Java -->
-	<img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" widht="40" height="40"/>
 	<!-- Spring -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" widht="40" height="40"/>
 	<!-- Javascript -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" widht="40" height="40"/>
 	<!-- HTML5 -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" widht="40" height="40"/>
 	<!-- CSS -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" widht="40" height="40"/>
 	<!-- Bootstrap -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" widht="40" height="40"/>
 	<!-- PostgreSQL -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" widht="40" height="40"/>
 	<!-- MySQL -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" widht="40" height="40"/>
+	<!-- MariaDB -->
+		<img src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000" widht="40" height="40"/>
+	<!-- GitHub -->
+		<img src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000" widht="40" height="40"/>
 	<!-- Git -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
 </div>
 
 <!-- Contatos -->
