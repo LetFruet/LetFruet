@@ -6,7 +6,7 @@ Tenho 20 anos, atualmente estou cursando o quarto semestre de Ciência da Comput
 ### :computer: Tecnologias e ferramentas
 <div align="center">
 	<!-- Java -->
-	<img src="![image](https://github.com/user-attachments/assets/f0b66759-fba0-4b66-bd16-33d9fe87d64b) widht="40" height="40"/>
+	<img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" widht="40" height="40"/>
 	<!-- Spring -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" widht="40" height="40"/>
 	<!-- Javascript -->
