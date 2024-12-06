@@ -26,7 +26,7 @@ Tenho 20 anos, atualmente estou cursando o quarto semestre de Ciência da Comput
 	<!-- GitHub -->
 		<img src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000" widht="40" height="40"/>
 	<!-- Git -->
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
+		<img src="https://img.icons8.com/?size=100&id=16335&format=png&color=000000" widht="40" height="40"/>
 </div>
 
 <!-- Contatos -->
