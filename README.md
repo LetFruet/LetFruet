@@ -1,7 +1,5 @@
 # Olá, me chamo Letícia! 
 
-Atualmente estou cursando o quinto semestre de Ciência da Computação na Furb e já participei do programa Entra21 (Java). Trabalho como monitora de programação e estagiária no Laboratório de Desenvolvimento e Transferência de Tecnologia - LDTT.
-
 <!-- Linguagens -->
 ### :computer: Tecnologias e ferramentas
 <div align="center">
