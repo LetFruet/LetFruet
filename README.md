@@ -30,12 +30,6 @@
 <!-- SQL -->
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" width="40" height="40"/>
 
-<!-- MySQL -->
-<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" height="40"/>
-
-<!-- MariaDB -->
-<img src="https://img.icons8.com/color/48/mariadb.png" width="40" height="40"/>
-
 <!-- MongoDB -->
 <img src="https://img.icons8.com/color/48/mongodb.png" width="40" height="40"/>
 
