@@ -4,10 +4,6 @@
 
 💻 Apaixonada por tecnologia, desenvolvimento de software, análise de dados e Inteligência Artificial.
 
-📚 Atualmente atuo na área administrativa da FURB realizando análise e validação de dados socioeconômicos, elaboração de relatórios e utilização avançada de Excel para apoio à tomada de decisão.
-
-🔬 Já participei de projetos de pesquisa e extensão no Laboratório de Desenvolvimento e Transferência Tecnológica (LDTT), desenvolvendo documentação técnica, produzindo artigos científicos e apresentando trabalhos em eventos nacionais.
-
 🚀 Interesse em:
 - Desenvolvimento de Software
 - Inteligência Artificial
@@ -81,64 +77,6 @@
 
 </div>
 
----
-
-## 🎓 Formação
-
-**Bacharelado em Ciência da Computação**  
-Universidade Regional de Blumenau (FURB)  
-📅 Previsão de conclusão: Julho/2027
-
----
-
-## 🔬 Experiência Acadêmica e Profissional
-
-### Bolsista de Pesquisa e Desenvolvimento - LDTT/FURB
-- Produção de artigos científicos
-- Organização e manutenção de repositórios GitHub
-- Participação no projeto Meninas Digitais
-- Desenvolvimento de documentação técnica
-- Apresentação de trabalhos científicos
-
-### Monitora de Computação e Programação
-- Apoio em disciplinas de programação
-- Resolução de problemas computacionais
-- Acompanhamento de projetos acadêmicos
-
-### Auxiliar de Serviços Administrativos
-- Análise e validação de dados socioeconômicos
-- Elaboração de relatórios e planilhas
-- Utilização avançada de Excel
-- Manipulação e organização de grandes volumes de dados
-
----
-
-## 📖 Áreas de Conhecimento
-
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- Banco de Dados
-- Engenharia de Software
-- Desenvolvimento Web
-- Inteligência Artificial
-- Machine Learning
-- Redes Neurais Artificiais
-- Análise de Dados
-
----
-
-## 🏆 Certificações
-
-- Entra21 – Formação Java
-- Pacote Office
-- Git e GitHub
-- HTML e CSS
-- Lógica de Programação
-- Gestão Ágil
-- Trilha DevTest (TDC)
-- Inglês (KNN Idiomas)
-
----
 
 ## 📫 Contato
 
@@ -151,14 +89,3 @@ Universidade Regional de Blumenau (FURB)
 ---
 
 ⭐ Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para aplicar tecnologia na solução de problemas reais.
-
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact&theme=tokyonight"/>
-
-</div>
