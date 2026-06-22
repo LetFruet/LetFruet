@@ -33,9 +33,6 @@
 <!-- MongoDB -->
 <img src="https://img.icons8.com/color/48/mongodb.png" width="40" height="40"/>
 
-<!-- Spring -->
-<img src="https://img.icons8.com/color/48/spring-logo.png" width="40" height="40"/>
-
 <!-- JavaScript -->
 <img src="https://img.icons8.com/color/48/javascript.png" width="40" height="40"/>
 
@@ -53,12 +50,6 @@
 
 <!-- GitHub -->
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" height="40"/>
-
-<!-- Eclipse -->
-<img src="https://img.icons8.com/color/48/eclipse.png" width="40" height="40"/>
-
-<!-- VS Code -->
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" height="40"/>
 
 <!-- Unity -->
 <img src="https://img.icons8.com/color/48/unity.png" width="40" height="40"/>
