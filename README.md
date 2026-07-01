@@ -49,6 +49,7 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/leticia-fruet)
+
 📧 [leticiafruet09@gmail.com](mailto:leticiafruet09@gmail.com)
 
 ---
@@ -58,10 +59,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetFruet" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact&langs_count=8"/>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact&langs_count=8&hide_border=true"/>
 </p>
