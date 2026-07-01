@@ -52,12 +52,3 @@
 
 
 📧 [leticiafruet09@gmail.com](mailto:leticiafruet09@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LetFruet" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetFruet" />
-</p>
