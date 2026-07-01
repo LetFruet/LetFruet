@@ -49,8 +49,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true"/>
 </p>
 
 ---
