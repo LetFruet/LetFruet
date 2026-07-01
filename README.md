@@ -46,16 +46,15 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true"/>
-</p>
-
 ---
 
 ## 📫 Contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/leticia-fruet)
-
 📧 [leticiafruet09@gmail.com](mailto:leticiafruet09@gmail.com)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LetFruet" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetFruet" />
+</p>
