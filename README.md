@@ -1,16 +1,15 @@
-# Olá, me chamo Letícia Fruet! 👋
+# Olá, eu sou Letícia Fruet 👋
 
-🎓 Estudante de Ciência da Computação na Universidade Regional de Blumenau (FURB)
+🎓 Estudante de Ciência da Computação na FURB (Universidade Regional de Blumenau)
 
-💻 Apaixonada por tecnologia, desenvolvimento de software, análise de dados e Inteligência Artificial.
-
-🚀 Interesse em:
-- Desenvolvimento de Software
-- Inteligência Artificial
-- Machine Learning
-- Análise de Dados
-- Desenvolvimento Web
-- Automação de Processos
+## 🚀 Áreas de Interesse
+* Desenvolvimento de Software
+* Inteligência Artificial e Machine Learning
+* Ciência e Análise de Dados
+* Desenvolvimento Web
+* Banco de Dados
+* Automação de Processos
+* Tecnologias Educacionais
 
 ---
 
@@ -18,56 +17,46 @@
 
 <div align="center">
 
-<!-- Python -->
 <img src="https://img.icons8.com/color/48/python.png" width="40" height="40"/>
-
-<!-- Java -->
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" height="40"/>
-
-<!-- C# -->
 <img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="40" height="40"/>
-
-<!-- SQL -->
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" width="40" height="40"/>
-
-<!-- JavaScript -->
 <img src="https://img.icons8.com/color/48/javascript.png" width="40" height="40"/>
-
-<!-- HTML -->
 <img src="https://img.icons8.com/color/48/html-5.png" width="40" height="40"/>
-
-<!-- CSS -->
 <img src="https://img.icons8.com/color/48/css3.png" width="40" height="40"/>
-
-<!-- Bootstrap -->
 <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40"/>
-
-<!-- Git -->
 <img src="https://img.icons8.com/color/48/git.png" width="40" height="40"/>
-
-<!-- GitHub -->
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" height="40"/>
-
-<!-- Unity -->
 <img src="https://img.icons8.com/color/48/unity.png" width="40" height="40"/>
-
-<!-- Office -->
 <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="40" height="40"/>
-
-<!-- Canva -->
-<img src="https://img.icons8.com/color/48/canva.png" width="40" height="40"/>
 
 </div>
 
+---
 
-## 📫 Contato
+## 📌 Experiência Acadêmica e Projetos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leticia-fruet)
+🔹 Desenvolvimento de projetos de software.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LetFruet)
+🔹 Participação em projetos de pesquisa e extensão voltados à educação, tecnologia e pensamento computacional.
 
-📧 leticiafruet09@gmail.com
+🔹 Produção e apresentação de trabalhos científicos em eventos da área de Computação e Informática na Educação.
+
+🔹 Atuação em iniciativas de inovação tecnológica no Laboratório de Desenvolvimento e Transferência Tecnológica (LDTT).
 
 ---
 
-⭐ Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para aplicar tecnologia na solução de problemas reais.
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LetFruet&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetFruet&layout=compact"/>
+</p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/leticia-fruet)
+
+📧 [leticiafruet09@gmail.com](mailto:leticiafruet09@gmail.com)
